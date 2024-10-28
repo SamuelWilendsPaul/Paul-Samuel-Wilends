@@ -1,0 +1,83 @@
+body {
+    width: 1000px;
+    margin: auto;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size:initial;
+}
+
+table {
+    margin-top: 60px;
+    width: 100%;
+    border-collapse: collapse;  
+}
+
+td,
+th {
+    padding: 5px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.638);
+}
+.entete {
+    color:white;
+    background-color:rgb(70, 70, 70);
+    height: 30px;
+    font-size: 2em;
+}
+.heures {
+    width: 5%;
+    height: 10px;
+}
+
+.jours {
+    width: 19%;
+    font-size: 1.5em;
+}
+
+.plage {
+    color: white;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+.liberationCommune {
+    background-color: gray;
+}
+
+.KB2 {
+    background-color: blue;
+}
+
+.KBG {
+    background-color: green;
+}
+.KBG2 {
+    background-color: purple;
+}
+.KB1 {
+    background-color: red;
+}
+.KB3 {
+    background-color: violet;
+}
+.KB1M {
+    background-color: black;
+}
+.FRA {
+    background-color: pink;
+}
+.PHI {
+    background-color: orange;
+}
+div{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+body{
+    background-image: url(/images/kurt.jpeg);
+    background-position: center;
+    background-size: 600px;
+    background-repeat: repeat;
+}
